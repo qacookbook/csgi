@@ -13,9 +13,9 @@ Usage
 
 As it is a simple program no build tools like maven/gradle are used.
 
-When running from an IDE the application can be run directly by clicking "Run APplication". 
+When running from an IDE the application can be run directly by clicking "Run APplication" and by running test cases.
 
-The application can run command line in windows and jre using commands 
+The application can be executed from windows command line (after removing comments of main method) 
 
 javac CounitngWordsDemo.java
 
